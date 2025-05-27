@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm Abul Hasnat Hridoy!;&color=FF5733" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Abul+Hasnat+Hridoy!;&color=FF5733" />
 </h1>
 
 <h3 align="center">
@@ -11,25 +11,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working at a company developing an **online video editor**, where I focus on **frontend development with Next.js**
+- 🔭 I’m currently working at Nothing
 
-- 🌱 Currently learning **Machine Learning** and **NextJS/React more Deeply**
+- 🌱 Currently learning Web Engineering
 
-- 🚀 Working on [**MCLX – A Community-Driven Problem Sharing & Solution Platform**](https://mclx.pages.dev)
+- 🚀 Working on Study
 
-- 🕸️ My portfolio: [imurad.pages.dev](https://imurad.pages.dev)
-
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/mozaddedalfeshani)
+- 👨‍💻 All my projects are available on [GitHub](https://github.com/AbulHasnatHridoy)
 
 - 📝 I code regularly using **Visual Studio Code**
 
 - 💬 Ask me anything about **my work or interests**, and I’ll do my best to respond!
 
-- 📫 Reach me via [Email](mailto:mozaddedalfeshani@outlook.com)
+- 📫 Reach me via [Email](mailto:hasnathridoy009@gmail.com)
 
 
 - ⚡ Fun fact **Nothing To Say**
-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AbulHasnatHridoy)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -91,7 +89,7 @@
 <hr>
 
 <h3 align="left">GitHub Stats</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozaddedalfeshani&radius=16&theme=material&area=true&order=5" height="400"   alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbulHasnatHridoy&radius=16&theme=material&area=true&order=5" height="400"   alt="activity-graph graph"  />
 
 <p align="center">
 
